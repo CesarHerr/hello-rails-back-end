@@ -143,9 +143,9 @@ To fix the linter use:
 
 ## 🚀 React Front End connection <a name="front"></a>
 
-This Rails API, was created to work with this React Front End 
+This Rails API, was created to work with:
 
-[Front end](https://github.com/CesarHerr/hello-react-front-end)
+[React Front end](https://github.com/CesarHerr/hello-react-front-end)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
